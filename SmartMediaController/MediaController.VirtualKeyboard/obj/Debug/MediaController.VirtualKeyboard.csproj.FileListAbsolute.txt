@@ -6,3 +6,11 @@ E:\SoftoSol-Projects\mediaController\MediaController.VirtualKeyboard\obj\Debug\M
 E:\SoftoSol-Projects\mediaController\MediaController.VirtualKeyboard\obj\Debug\MediaController.VirtualKeyboard.csproj.CopyComplete
 E:\SoftoSol-Projects\mediaController\MediaController.VirtualKeyboard\obj\Debug\MediaController.VirtualKeyboard.dll
 E:\SoftoSol-Projects\mediaController\MediaController.VirtualKeyboard\obj\Debug\MediaController.VirtualKeyboard.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\MediaController.VirtualKeyboard\bin\Debug\MediaController.VirtualKeyboard.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\MediaController.VirtualKeyboard\bin\Debug\MediaController.VirtualKeyboard.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\MediaController.VirtualKeyboard\bin\Debug\WindowsInput.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\MediaController.VirtualKeyboard\bin\Debug\WindowsInput.xml
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\MediaController.VirtualKeyboard\obj\Debug\MediaController.VirtualKeyboard.csprojAssemblyReference.cache
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\MediaController.VirtualKeyboard\obj\Debug\MediaController.VirtualKeyboard.csproj.CopyComplete
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\MediaController.VirtualKeyboard\obj\Debug\MediaController.VirtualKeyboard.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\MediaController.VirtualKeyboard\obj\Debug\MediaController.VirtualKeyboard.pdb

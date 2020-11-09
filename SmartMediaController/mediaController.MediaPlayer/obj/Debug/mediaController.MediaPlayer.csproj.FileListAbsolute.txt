@@ -14,3 +14,13 @@ E:\SoftoSol-Projects\mediaController\mediaController.MediaPlayer\obj\Debug\media
 E:\SoftoSol-Projects\mediaController\mediaController.MediaPlayer\obj\Debug\mediaController.MediaPlayer.csproj.CopyComplete
 E:\SoftoSol-Projects\mediaController\mediaController.MediaPlayer\obj\Debug\mediaController.MediaPlayer.dll
 E:\SoftoSol-Projects\mediaController\mediaController.MediaPlayer\obj\Debug\mediaController.MediaPlayer.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.MediaPlayer\bin\Debug\mediaController.MediaPlayer.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.MediaPlayer\bin\Debug\mediaController.MediaPlayer.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.MediaPlayer\bin\Debug\MediaController.VirtualKeyboard.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.MediaPlayer\bin\Debug\WindowsInput.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.MediaPlayer\bin\Debug\MediaController.VirtualKeyboard.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.MediaPlayer\bin\Debug\WindowsInput.xml
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.MediaPlayer\obj\Debug\mediaController.MediaPlayer.csprojAssemblyReference.cache
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.MediaPlayer\obj\Debug\mediaController.MediaPlayer.csproj.CopyComplete
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.MediaPlayer\obj\Debug\mediaController.MediaPlayer.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.MediaPlayer\obj\Debug\mediaController.MediaPlayer.pdb

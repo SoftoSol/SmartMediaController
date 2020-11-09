@@ -16,3 +16,15 @@ E:\SoftoSol-Projects\mediaController\mediaController.Camera\obj\Debug\mediaContr
 E:\SoftoSol-Projects\mediaController\mediaController.Camera\obj\Debug\mediaController.Camera.csproj.CopyComplete
 E:\SoftoSol-Projects\mediaController\mediaController.Camera\obj\Debug\mediaController.Camera.dll
 E:\SoftoSol-Projects\mediaController\mediaController.Camera\obj\Debug\mediaController.Camera.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\bin\Debug\mediaController.Camera.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\bin\Debug\mediaController.Camera.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\bin\Debug\mediaController.CommandPrompt.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\bin\Debug\MediaController.VirtualKeyboard.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\bin\Debug\WindowsInput.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\bin\Debug\mediaController.CommandPrompt.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\bin\Debug\MediaController.VirtualKeyboard.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\bin\Debug\WindowsInput.xml
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\obj\Debug\mediaController.Camera.csprojAssemblyReference.cache
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\obj\Debug\mediaController.Camera.csproj.CopyComplete
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\obj\Debug\mediaController.Camera.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Camera\obj\Debug\mediaController.Camera.pdb

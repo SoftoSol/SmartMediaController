@@ -3,3 +3,8 @@ E:\SoftoSol-Projects\mediaController\mediaController.Connection\bin\Debug\mediaC
 E:\SoftoSol-Projects\mediaController\mediaController.Connection\obj\Debug\mediaController.Connection.csprojAssemblyReference.cache
 E:\SoftoSol-Projects\mediaController\mediaController.Connection\obj\Debug\mediaController.Connection.dll
 E:\SoftoSol-Projects\mediaController\mediaController.Connection\obj\Debug\mediaController.Connection.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Connection\bin\Debug\mediaController.Connection.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Connection\bin\Debug\mediaController.Connection.pdb
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Connection\obj\Debug\mediaController.Connection.csprojAssemblyReference.cache
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Connection\obj\Debug\mediaController.Connection.dll
+E:\SoftoSol-Projects\SmartMediaController\SmartMediaController\mediaController.Connection\obj\Debug\mediaController.Connection.pdb
