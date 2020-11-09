@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background">
+
+    <LinearLayout
+        android:layout_width="340dp"
+        android:layout_height="262dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.453">
+
+        <EditText
+            android:id="@+id/etIP"
+            android:layout_width="258dp"
+            android:layout_height="52dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:ems="10"
+            android:hint="@string/enter_ip"
+            android:importantForAutofill="no"
+            android:inputType="textPersonName"
+            android:textColorHint="@color/white" />
+
+        <EditText
+            android:id="@+id/etPort"
+            android:layout_width="258dp"
+            android:layout_height="52dp"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:hint="@string/enter_port"
+            android:importantForAutofill="no"
+            android:inputType="number"
+            android:textColorHint="@color/white" />
+
+        <Button
+            android:id="@+id/btnConnect"
+            android:layout_width="130dp"
+            android:layout_height="52dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:enabled="false"
+            android:gravity="center"
+            android:paddingTop="0dp"
+            android:text="@string/connect"
+            app:backgroundTint="#0866B1"
+            app:icon="@android:drawable/ic_menu_share"
+            app:iconGravity="start"
+            app:iconPadding="0dp"
+            app:iconSize="22dp" />
+
+        <Button
+            android:id="@+id/btnExit"
+            android:layout_width="130dp"
+            android:layout_height="52dp"
+            android:text="@string/exit"
+            android:layout_gravity="center"
+            android:gravity="center"
+            app:iconGravity="start"
+            app:iconPadding="0dp"
+            app:backgroundTint="#0866B1"
+            app:icon="@android:drawable/ic_menu_close_clear_cancel"
+            app:iconSize="22dp" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

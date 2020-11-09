@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@mipmap/background2"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:id="@+id/btnVoice"
+        android:layout_width="164dp"
+        android:layout_height="79dp"
+        android:layout_marginTop="80dp"
+        android:adjustViewBounds="true"
+        android:background="@null"
+        android:contentDescription="@string/todo"
+        android:hapticFeedbackEnabled="false"
+        android:isScrollContainer="false"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@+id/gridLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.444"
+        app:srcCompat="@mipmap/ic_mic" />
+
+    <TextView
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="50dp"
+        android:hint="@string/result"
+        android:importantForAutofill="no"
+        android:textColor="@color/white"
+        android:textColorHint="#8FFFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnVoice"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.628" />
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="match_parent"
+        android:layout_height="332dp"
+        android:layout_marginBottom="12dp"
+        android:background="@android:color/transparent"
+        android:columnCount="3"
+        app:layout_constraintBottom_toTopOf="@+id/txtReponse"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/btnPlay"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/pause"
+            android:textColor="@color/white"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@android:drawable/ic_media_play"
+            app:iconSize="20dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnPrev"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="@string/prev"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@android:drawable/ic_media_previous"
+            app:iconSize="20dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="@string/next"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@android:drawable/ic_media_next"
+            app:iconSize="20dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnStop"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/stop"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@android:drawable/ic_media_pause"
+            app:iconSize="20dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnVolUp"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="@string/up"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@android:drawable/ic_lock_silent_mode_off"
+            app:iconSize="20dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnVolDown"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:text="@string/down"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@android:drawable/ic_lock_silent_mode_off"
+            app:iconSize="20dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnMute"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/mute"
+            android:textSize="14sp"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@null"
+            app:iconGravity="textStart"
+            app:iconPadding="5dp"
+            app:iconSize="14dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnCamOpen"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="@string/cam"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@android:drawable/ic_menu_camera"
+            app:iconSize="20dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnCapture"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:text="@string/capture"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@null"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnVideo"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/video"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@android:drawable/presence_video_online"
+            app:iconSize="20dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnCamClose"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="@string/cam"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@android:drawable/ic_menu_close_clear_cancel"
+            app:iconSize="20dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnCloseApp"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:text="@string/home"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="?attr/homeAsUpIndicator"
+            app:iconSize="20dp"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnHelp"
+            android:layout_width="110dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/help"
+            app:backgroundTint="@android:color/transparent"
+            app:cornerRadius="@null"
+            app:icon="@android:drawable/ic_menu_help"
+            app:iconSize="18dp"
+            app:iconTint="#FFFFFF" />
+
+    </GridLayout>
+
+    <TextView
+        android:id="@+id/txtReponse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="28dp"
+        android:background="#203904"
+        android:text="@string/server_response"
+        android:textColor="#30A108"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

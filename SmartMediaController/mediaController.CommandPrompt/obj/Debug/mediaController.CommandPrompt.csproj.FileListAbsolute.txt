@@ -1,0 +1,5 @@
+E:\SoftoSol-Projects\mediaController\mediaController.CommandPrompt\bin\Debug\mediaController.CommandPrompt.dll
+E:\SoftoSol-Projects\mediaController\mediaController.CommandPrompt\bin\Debug\mediaController.CommandPrompt.pdb
+E:\SoftoSol-Projects\mediaController\mediaController.CommandPrompt\obj\Debug\mediaController.CommandPrompt.csprojAssemblyReference.cache
+E:\SoftoSol-Projects\mediaController\mediaController.CommandPrompt\obj\Debug\mediaController.CommandPrompt.dll
+E:\SoftoSol-Projects\mediaController\mediaController.CommandPrompt\obj\Debug\mediaController.CommandPrompt.pdb

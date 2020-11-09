@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Remote Controller</string>
+    <string name="voice">Voice</string>
+    <string name="todo">TODO</string>
+    <string name="result">You will see result here</string>
+    <string name="close">close</string>
+    <string name="record">record</string>
+    <string name="capture">Capture</string>
+    <string name="stop">stop</string>
+    <string name="video">Video</string>
+    <string name="cam">Cam</string>
+    <string name="mute">Mute</string>
+    <string name="down">Down</string>
+    <string name="up">Up</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="connect">Connect</string>
+    <string name="enter_ip">Enter IP e.g. 111.111.1.1 </string>
+    <string name="enter_port">Enter port e.g. 8080 </string>
+    <string name="exit">Exit</string>
+    <string name="server_response">Server response</string>
+    <string name="home">home</string>
+    <string name="help">help</string>
+</resources>

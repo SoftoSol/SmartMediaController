@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediaController", "mediaController\mediaController.csproj", "{E4116A5A-B6A1-4A09-999F-E460251D3435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediaController.Camera", "mediaController.Camera\mediaController.Camera.csproj", "{A74CF912-2168-4CE7-BF10-6EB1A9ACA086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediaController.MediaPlayer", "mediaController.MediaPlayer\mediaController.MediaPlayer.csproj", "{9A5D3848-0207-4365-8685-DC7000CAB462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediaController.Connection", "mediaController.Connection\mediaController.Connection.csproj", "{15DA9560-CC5D-47D0-AB16-46426AE7391F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediaController.CommandPrompt", "mediaController.CommandPrompt\mediaController.CommandPrompt.csproj", "{DC75F2D9-DDBD-4504-A9FF-DACEBA6F40CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaController.VirtualKeyboard", "MediaController.VirtualKeyboard\MediaController.VirtualKeyboard.csproj", "{2723864E-4705-4A66-865C-71C61B8D4AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4116A5A-B6A1-4A09-999F-E460251D3435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4116A5A-B6A1-4A09-999F-E460251D3435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4116A5A-B6A1-4A09-999F-E460251D3435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4116A5A-B6A1-4A09-999F-E460251D3435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74CF912-2168-4CE7-BF10-6EB1A9ACA086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74CF912-2168-4CE7-BF10-6EB1A9ACA086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74CF912-2168-4CE7-BF10-6EB1A9ACA086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74CF912-2168-4CE7-BF10-6EB1A9ACA086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5D3848-0207-4365-8685-DC7000CAB462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5D3848-0207-4365-8685-DC7000CAB462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5D3848-0207-4365-8685-DC7000CAB462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5D3848-0207-4365-8685-DC7000CAB462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DA9560-CC5D-47D0-AB16-46426AE7391F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DA9560-CC5D-47D0-AB16-46426AE7391F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DA9560-CC5D-47D0-AB16-46426AE7391F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DA9560-CC5D-47D0-AB16-46426AE7391F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC75F2D9-DDBD-4504-A9FF-DACEBA6F40CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC75F2D9-DDBD-4504-A9FF-DACEBA6F40CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC75F2D9-DDBD-4504-A9FF-DACEBA6F40CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC75F2D9-DDBD-4504-A9FF-DACEBA6F40CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2723864E-4705-4A66-865C-71C61B8D4AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2723864E-4705-4A66-865C-71C61B8D4AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2723864E-4705-4A66-865C-71C61B8D4AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2723864E-4705-4A66-865C-71C61B8D4AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E385AB-CF7D-45D0-B606-A61B85093394}
+	EndGlobalSection
+EndGlobal
