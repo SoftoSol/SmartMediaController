@@ -15,7 +15,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 import java.util.ArrayList;
@@ -32,6 +31,7 @@ public class ControllerActivity extends AppCompatActivity implements Thread.Unca
     SpeechRecognizer mSpeechRecognizer;
     Intent mSpeechRecognizerIntent;
     String serverResponse;
+
     private enum CommandList{
         PLAY_PAUSE,STOP,
         PREV,NEXT,MUTE,

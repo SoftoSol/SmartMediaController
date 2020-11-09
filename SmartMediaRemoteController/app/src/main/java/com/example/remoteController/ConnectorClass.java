@@ -7,7 +7,6 @@ import android.os.Build;
 import android.os.Handler;
 import android.util.Log;
 import android.widget.Toast;
-
 import androidx.annotation.RequiresApi;
 import java.io.IOException;
 import java.io.InputStream;
@@ -15,6 +14,7 @@ import java.io.OutputStream;
 import java.net.InetSocketAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
+
 public class ConnectorClass {
     private static final String TAG = ConnectorClass.class.getSimpleName();
     private static Socket serverSocket;
